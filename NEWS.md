@@ -1,5 +1,9 @@
 # CTdata 1.0
 
+## CTdata 1.0.2
+
+- Suggest and load SE in vignette.
+
 ## CTdata 1.0.1
 
 - Only display a small subset of `CCLE_correlation_matrix()` in the

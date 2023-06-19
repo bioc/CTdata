@@ -67,6 +67,10 @@ For details about each data, see their respective manual pages.
 A `SummarizedExperiment` object with gene expression data in normal
 tissues from GTEx database:
 
+```{r, message = FALSE}
+library("SummarizedExperiment")
+```
+
 ```{r}
 GTEX_data()
 ```
